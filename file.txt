@@ -1,2 +1,3 @@
 Adding new line to demonstrate HEAD
 Adding a new feature line
+Adding line 3
